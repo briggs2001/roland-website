@@ -1,4 +1,4 @@
-// Theme Management
+
 const themeToggle = document.getElementById('themeToggle');
 const html = document.documentElement;
 
